@@ -1,0 +1,7 @@
+spec_version: "0.1.0"
+name: Test Agent
+description: A test agent for Ruck development
+model:
+  preferred: claude-sonnet-4-20250514
+max_turns: 50
+timeout: 120
